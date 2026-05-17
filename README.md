@@ -14,7 +14,7 @@ A multi-page Power BI Template (`.pbit`) that analyses Airbnb listing inventory,
    - [Ratings](#ratings)
    - [Reviews](#reviews)
 5. [Business Impacts & Insights](#business-impact--insights)
-6. [Preview of the Dashboard](https://github.com/basvi-chunara/Airbnb_Global_Performance_Dashboard/blob/main/README.md#6-preview)
+6. [Preview of the Dashboard](#6-preview)
 
 ---
 
