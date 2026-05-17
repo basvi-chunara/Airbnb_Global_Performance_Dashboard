@@ -14,6 +14,7 @@ A multi-page Power BI Template (`.pbit`) that analyses Airbnb listing inventory,
    - [Ratings](#ratings)
    - [Reviews](#reviews)
 5. [Business Impacts & Insights](#business-impact--insights)
+6. [Preview of the Dashboard](https://github.com/basvi-chunara/Airbnb_Global_Performance_Dashboard/blob/main/README.md#screenshot)
 
 ---
 
@@ -164,3 +165,8 @@ Of all the rating categories (accuracy, cleanliness, check-in, communication, lo
 ### 5. Review activity shows which cities are actually popular right now
  
 The ribbon chart shows how many reviews each month come from each city. A city that gets lots of reviews in summer but goes quiet in winter is highly seasonal, which affects how much support and marketing it needs month to month. **What to do:** Use this chart to plan when to run promotions and where to focus host support based on real activity, not just listing counts.
+
+---
+
+## 6. Preview
+![Dashboard preview](https://github.com/basvi-chunara/Airbnb_Global_Performance_Dashboard/blob/main/Dashboard%20snapshot.png)
