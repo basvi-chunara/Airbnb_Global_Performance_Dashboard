@@ -169,4 +169,5 @@ The ribbon chart shows how many reviews each month come from each city. A city t
 ---
 
 ## 6. Preview
+[Click here for the PDF of the Dashboard](https://github.com/basvi-chunara/Airbnb_Global_Performance_Dashboard/blob/main/Airbnb%20dashboard.pdf)
 ![Dashboard preview](https://github.com/basvi-chunara/Airbnb_Global_Performance_Dashboard/blob/main/Dashboard%20snapshot.png)
